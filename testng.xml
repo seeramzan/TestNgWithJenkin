@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE suite PUBLIC "http://testng.org" "http://testng.org/testng-1.0.dtd">
+<suite name="BASHIR">
+    <test name="BASHIR">
+        <classes>
+            <class name="MavenDemo.DemoTestNG">
+                <methods>
+                    <include name="googleSearch"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
